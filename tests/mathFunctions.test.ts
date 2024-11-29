@@ -19,7 +19,7 @@ test.each([
 test.each([
 	{ input: 5, expected: true },
 	{ input: 9, expected: false },
-	{ input: 191, expected: true},
+	{ input: 191, expected: true },
 	{ input: 523, expected: true },
 	{ input: 1337, expected: false }
 ])('$input is prime: $expected', ({ input, expected }) => {
