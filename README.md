@@ -38,7 +38,7 @@ A few clicks later I startled my wife with an achievement yelp. Huzzah!
 
 ## Getting a SvelteKit site on Netlify
 
-Node.js LTS is installed so it's time to make a svelte project. I emptied the repo folder and backed up to the parent folder of my repo, then ran ```npx sv create adrianBHarrisonSite``` to create the svelte kit app. The rest of the setup can be found [here.](https://svelte.dev/docs/kit/creating-a-project)
+Node.js LTS is installed so it's time to make a svelte project. I emptied the repo folder and backed up to the parent folder of my repo, then ran `npx sv create adrianBHarrisonSite` to create the svelte kit app. The rest of the setup can be found [here.](https://svelte.dev/docs/kit/creating-a-project)
 
 I changed the +page.svelte to be a bit more personal, made a pull request to main and netflify automatically deployed the website.
 
