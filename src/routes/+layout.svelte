@@ -3,5 +3,6 @@
 	import '../app.css';
 	let { children } = $props();
 </script>
-<DarkMode size="lg"/>
+
+<DarkMode size="lg" />
 {@render children()}

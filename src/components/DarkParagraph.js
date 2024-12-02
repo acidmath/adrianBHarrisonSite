@@ -1,1 +1,1 @@
-export { default as DarkParagraph } from './DarkParagraph.svelte'
+export { default as DarkParagraph } from './DarkParagraph.svelte';
