@@ -18,5 +18,5 @@
         <p class="text-base font-normal text-gray-700 dark:text-gray-400">Responsibilities - Requirements collection | The importance of people skills | How to jump between tech stacks a few times a week</p>    
     </TimelineItem>
 </Timeline>
-<Button href="my resume somewhere">Learn more <ChevronRightOutline/></Button>
+<Button href="/resume">Learn more <ChevronRightOutline/></Button>
   
