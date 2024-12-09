@@ -15,6 +15,6 @@
 		</Card>		
 	</div>
 	<div class="p-10">
-		<About />
+		<About/>
 	</div>
 </div>
