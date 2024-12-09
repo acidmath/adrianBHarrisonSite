@@ -1,8 +1,11 @@
 <script>
+	import { Button } from 'flowbite-svelte';
+	import { ChevronLeftOutline } from 'flowbite-svelte-icons';
 	import { DarkParagraph } from '../../components/DarkParagraph.js';
 </script>
 
 <div class="mx-16 p-1">
+	<Button href="/"><ChevronLeftOutline/> Return</Button>
 	<DarkParagraph content="Adrian Harrison" />
 	<DarkParagraph content="San Antonio, TX" />
 	<br />

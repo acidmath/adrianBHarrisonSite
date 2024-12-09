@@ -1,6 +1,6 @@
 <script>
 	import { Timeline, TimelineItem, Button } from 'flowbite-svelte';
-	import { ChevronRightOutline } from 'flowbite-svelte-icons';
+	import { ChevronRightOutline, GithubSolid } from 'flowbite-svelte-icons';
 </script>
 
 <Timeline order="vertical">
@@ -32,3 +32,5 @@
 	</TimelineItem>
 </Timeline>
 <Button href="/resume">Learn more <ChevronRightOutline /></Button>
+<br/>
+<Button href="https://github.com/acidmath" class="mt-4"><GithubSolid/>Github</Button>
